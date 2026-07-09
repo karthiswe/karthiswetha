@@ -8,6 +8,9 @@ body{
     font-optical-sizing: auto;
     font-weight: weight;
       font-style: normal;
+ background-image: url("book.jpg");
+      background-repeat:no-repeat;
+      background-size: 100%;
     
       
 }
