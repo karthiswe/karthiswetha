@@ -15,8 +15,10 @@ body{
       
 }
 .navbar{
+
     background-color: red;
     padding: 10px;
+
 }
 .book-container{
     padding: 15px;
