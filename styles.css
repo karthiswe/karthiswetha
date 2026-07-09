@@ -16,8 +16,8 @@ body{
 }
 .navbar{
 
-    background-color: blue;
-
+    background-color: red;
+    padding: 10px;
 
 }
 .book-container{
